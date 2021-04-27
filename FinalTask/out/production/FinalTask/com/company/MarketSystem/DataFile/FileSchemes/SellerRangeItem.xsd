@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="sellerRangeItem">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="productID" type="xsd:int"/>
+                <xsd:element name="sellerID" type="xsd:int"/>
+                <xsd:element name="productPrice" type="xsd:int"/>
+                <xsd:element name="productCount" type="xsd:int"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
+

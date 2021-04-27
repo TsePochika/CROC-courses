@@ -1,0 +1,26 @@
+<sells>
+        <sell>
+            <id>0</id>
+            <productID>2</productID>
+            <sellerID>0</sellerID>
+            <countSellProducts>1</countSellProducts>
+        </sell>
+        <sell>
+            <id>1</id>
+            <productID>1</productID>
+            <sellerID>1</sellerID>
+            <countSellProducts>2</countSellProducts>
+        </sell>
+        <sell>
+            <id>2</id>
+            <productID>2</productID>
+            <sellerID>2</sellerID>
+            <countSellProducts>3</countSellProducts>
+        </sell>
+        <sell>
+            <id>3</id>
+            <productID>0</productID>
+            <sellerID>2</sellerID>
+            <countSellProducts>4</countSellProducts>
+        </sell>
+    </sells>

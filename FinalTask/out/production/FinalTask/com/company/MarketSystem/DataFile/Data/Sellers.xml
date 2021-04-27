@@ -1,0 +1,22 @@
+<sellers>
+        <seller>
+            <id>0</id>
+            <sellerLastName>Денис</sellerLastName>
+            <sellerName>Войдовский</sellerName>
+        </seller>
+        <seller>
+            <id>1</id>
+            <sellerLastName>Артем</sellerLastName>
+            <sellerName>Пшеничных</sellerName>
+        </seller>
+        <seller>
+            <id>2</id>
+            <sellerLastName>Влад</sellerLastName>
+            <sellerName>Титов</sellerName>
+        </seller>
+        <seller>
+            <id>3</id>
+            <sellerLastName>Виталий</sellerLastName>
+            <sellerName>Цаль</sellerName>
+        </seller>
+    </sellers>

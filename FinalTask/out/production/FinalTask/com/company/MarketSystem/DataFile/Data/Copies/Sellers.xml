@@ -1,0 +1,22 @@
+<sellers>
+        <seller>
+            <id>0</id>
+            <sellerLastName>Dom1</sellerLastName>
+            <sellerName>Shot1</sellerName>
+        </seller>
+        <seller>
+            <id>1</id>
+            <sellerLastName>Dom2</sellerLastName>
+            <sellerName>Shot2</sellerName>
+        </seller>
+        <seller>
+            <id>2</id>
+            <sellerLastName>Dom3</sellerLastName>
+            <sellerName>Shot3</sellerName>
+        </seller>
+        <seller>
+            <id>3</id>
+            <sellerLastName>Dom4</sellerLastName>
+            <sellerName>Shot4</sellerName>
+        </seller>
+    </sellers>
